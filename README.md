@@ -375,3 +375,200 @@ Atualmente estou aprofundando meus conhecimentos na construção de aplicações
                        │
                        ▼
                 PostgreSQL
+
+Principais conceitos estudados:
+Programação Orientada a Objetos
+Arquitetura em camadas
+Repository Pattern
+JDBC
+SQL
+CRUD
+APIs REST
+Tratamento de exceções
+Validação de dados
+Segurança
+Persistência de dados
+☁️ Objetivo em DevOps
+Meu objetivo é unir minha experiência em Infraestrutura e Suporte com desenvolvimento de software e Cloud.
+                 INFRAESTRUTURA
+                       │
+                       ▼
+                  Linux / Git
+                       │
+                       ▼
+                    Docker
+                       │
+                       ▼
+                    CI / CD
+                       │
+                       ▼
+                   Cloud Azure
+                       │
+                       ▼
+                 MONITORAMENTO
+                       │
+                       ▼
+                    DEVOPS
+Áreas que pretendo aprofundar:
+Linux
+Docker
+Containers
+CI/CD
+GitHub Actions
+Azure
+Infrastructure as Code
+Automação
+Monitoramento
+Observabilidade
+Cloud Computing
+🎯 Objetivo Profissional
+Busco uma oportunidade para atuar como:
+💻 Desenvolvedor Back-end
+ou
+☁️ Desenvolvedor / Engenheiro DevOps
+Meu objetivo é trabalhar em ambientes onde possa aplicar e continuar desenvolvendo conhecimentos em:
+Java Spring Boot APIs SQL Linux Docker CI/CD Cloud
+e contribuir para a construção de aplicações confiáveis, escaláveis e bem estruturadas.
+📌 Minha evolução
+Técnico de Infra / Suporte
+            │
+            ▼
+     Fundamentos Linux
+            │
+            ▼
+       Programação
+            │
+            ▼
+       Java / SQL
+            │
+            ▼
+      Back-end / APIs
+            │
+            ▼
+      Docker / CI/CD
+            │
+            ▼
+       Azure / Cloud
+            │
+            ▼
+          DevOps
+📫 Como me encontrar
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nathan-henrique-5b751321b/">
+
+<img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
+
+<a href="mailto:SEU_EMAIL@gmail.com">
+
+<img
+  src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
+</a>
+
+<a href="https://github.com/slunno">
+
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+</a>
+
+</p>
+
+<p align="center">
+
+<strong>Back-end • DevOps • Cloud • Automation</strong>
+</p>
+
+<p align="center">
+
+<i>
+Aberto a oportunidades como Desenvolvedor Back-end ou DevOps 🚀
+</i>
+
+</p>
+
+<!-- ===================================================== -->
+<!--                    FOOTER                             -->
+<!-- ===================================================== -->
+
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e293b,100:0f172a&height=120&section=footer"
+  width="100%"
+/>
+</p>
+```
+
+⚠️ Antes de colocar no GitHub
+Tem duas coisas que você precisa alterar:
+Nesta parte:
+<a href="mailto:SEU_EMAIL@gmail.com">
+coloque seu e-mail profissional.
+Eu deixei os projetos sem links porque não quero inventar as URLs dos seus repositórios. Depois podemos colocar:
+<a href="URL_DO_REPOSITORIO">
+  Ver projeto →
+</a>
+nos projetos.
+O resultado esperado
+A estrutura ficará aproximadamente assim:
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│                  NATHAN HENRIQUE                   │
+│             Back-end Java | DevOps | Cloud         │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+
+Olá, eu sou o Nathan Henrique
+
+Técnico de Infra/Suporte em transição...
+
+👨‍💻 Sobre mim
+────────────────────────────────────
+
+🛠️ Tecnologias
+
+☕ Back-end
+[ Java ] [ Spring ] [ Maven ]
+
+🌐 Front-end
+[ HTML ] [ CSS ] [ JavaScript ] [ React ]
+
+🗄️ Banco
+[ PostgreSQL ] [ Oracle ] [ Supabase ]
+
+☁️ DevOps
+[ Linux ] [ Docker ] [ Azure ] [ Git ]
+
+🚀 Projetos
+────────────────────────────────────
+💰 Gestão de Contas
+🍕 Gama Pizzas
+💳 Financial Couple
+☕ Java Backend
+
+📊 GitHub Analytics
+[ stats ] [ languages ]
+
+🔥 GitHub Streak
+
+📈 Atividade
+
+🐍 Contributions
+
+📚 Atualmente estudando
+
+🏗️ Desenvolvimento Back-end
+
+☁️ Objetivo em DevOps
+
+🎯 Objetivo Profissional
+
+📫 Como me encontrar
