@@ -27,14 +27,14 @@ PLM para gestão do ciclo de vida de produtos de moda, desenvolvido para a **AKR
 A demonstração pública usa **dados inteiramente fictícios** e funciona sem conexão com APIs, autenticação, bancos de dados ou serviços da empresa.
 
 **Tecnologias do projeto original:** React, TypeScript, Vite, Tailwind CSS, Java 21, Spring Boot, JPA, APIs REST e PostgreSQL.  
-[Ver protótipo demonstrativo](https://github.com/slunno/slunno/blob/main/prototypes/akr-moda/index.html) · [Instruções para executar e hospedar](https://github.com/slunno/slunno/blob/main/prototypes/README.md)
+[Código do protótipo (HTML)](https://github.com/slunno/slunno/blob/main/prototypes/akr-moda/index.html) · [Instruções para executar e hospedar](https://github.com/slunno/slunno/blob/main/prototypes/README.md)
 
 ### 💬 AKR Chat
 
 Protótipo de uma plataforma de comunicação para a **AKR Brands**, reunindo canais, conversas e colaboração em equipe. A demonstração é isolada, com perfis e mensagens fictícios, sem integração com banco de dados ou serviços corporativos.
 
 **Tecnologias do projeto original:** React, TypeScript, Express, Socket.IO, Prisma, PostgreSQL, Redis e Docker.  
-[Ver protótipo demonstrativo](https://github.com/slunno/slunno/blob/main/prototypes/akr-chat/index.html) · [Instruções para executar e hospedar](https://github.com/slunno/slunno/blob/main/prototypes/README.md)
+[Código do protótipo (HTML)](https://github.com/slunno/slunno/blob/main/prototypes/akr-chat/index.html) · [Instruções para executar e hospedar](https://github.com/slunno/slunno/blob/main/prototypes/README.md)
 
 ### 🍕 Gama Pizzas
 
