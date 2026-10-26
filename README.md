@@ -59,7 +59,6 @@ Portfólio pessoal para apresentar projetos desenvolvidos, tecnologias e trajet�
 
 ## 📫 Contato
 
-<!-- Instagram link pending: add the confirmed profile URL here. -->
-[LinkedIn](https://www.linkedin.com/in/nathan-henrique-5b751321b/)
+[Instagram](https://www.instagram.com/nth_villar/) · [LinkedIn](https://www.linkedin.com/in/nathan-henrique-5b751321b/)
 
 Aberto a oportunidades em **desenvolvimento back-end Java e front-end**, e a projetos que conectem **IA aplicada ao desenvolvimento, arquitetura de software, redes, infraestrutura, cloud e AWS/DevOps**.
