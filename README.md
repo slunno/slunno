@@ -41,7 +41,7 @@ Protótipo de uma plataforma de comunicação para a **AKR Brands**, reunindo ca
 Site institucional responsivo para divulgar rodízios de pizza em eventos, sabores e galeria, com contato via WhatsApp.
 
 **Tecnologias:** React, JavaScript, Vite, React Router, Framer Motion e Swiper.  
-[Visitar o site](https://gama-pizzas-three.vercel.app) · [Ver repositório](https://github.com/slunno/gama-pizzas)
+[Visitar o site](https://gama-pizzas-work.vercel.app) · [Ver repositório](https://github.com/slunno/gama-pizzas)
 
 ### 🖥️ NH Studio — meu portfólio de projetos
 
