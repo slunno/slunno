@@ -1,51 +1,65 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=180&section=header&text=Nathan%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Back-end%20%7C%20Infraestrutura%20%7C%20DevOps&descAlignY=62&descSize=18" width="100%" alt="Nathan Henrique — Java Back-end, Infraestrutura e DevOps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:1e293b,100:65a30d&height=180&section=header&text=Nathan%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Back-end%20%7C%20Front-end%20%7C%20Infraestrutura%20%7C%20IA&descAlignY=62&descSize=16" width="100%" alt="Nathan Henrique — desenvolvimento, infraestrutura e IA" />
 </p>
 
 # Olá, eu sou o Nathan Henrique 👋
 
-Trabalho com **infraestrutura e suporte** e estou direcionando minha carreira para **desenvolvimento back-end com Java**. Gosto de entender o caminho completo de uma aplicação: código, banco de dados, implantação e operação.
+Atuo com **infraestrutura e suporte** e estou direcionando minha carreira para o **desenvolvimento de software**, com foco em back-end Java e também em front-end. Gosto de conectar código, arquitetura e operação para criar aplicações úteis e fáceis de usar.
 
-Atualmente desenvolvo projetos para praticar **Java, SQL e APIs REST**, enquanto aprofundo meus estudos em **Spring Boot, Docker, CI/CD e Azure**.
+No dia a dia, uso **IA como apoio para explorar ideias, acelerar protótipos, entender e revisar código e organizar documentação**. Isso facilita transformar conceitos em projetos funcionais, com validação e decisões técnicas feitas com atenção.
 
-## 🛠️ Tecnologias
+## 🧰 Ferramentas e áreas de atuação
 
-| Experiência em projetos | Em estudo |
-| --- | --- |
-| Java, JDBC, Maven e SQL | Spring Boot, JPA e testes de APIs |
-| PostgreSQL, Oracle e Supabase | Docker, CI/CD e Azure |
-| React, JavaScript, HTML e CSS | Automação e implantação de aplicações |
-| Git, GitHub e Linux |  |
+| Back-end e dados | Front-end | Arquitetura e operação |
+| --- | --- | --- |
+| Java 21, Spring Boot, APIs REST, JPA | React, TypeScript, JavaScript | Arquitetura em camadas, APIs e integração entre serviços |
+| SQL, PostgreSQL, Oracle, Supabase | Vite, Tailwind CSS, HTML e CSS | Linux, Git, GitHub Actions e Docker |
+| Node.js, Express, Prisma, Socket.IO | Interfaces responsivas e acessibilidade | Redes, cloud e AWS — em estudo |
 
-## 🚀 Projetos
+**IA aplicada ao desenvolvimento:** apoio cotidiano à prototipação, pesquisa de soluções, leitura e revisão de código e documentação.
 
-<!-- Substitua cada título por um link direto ao repositório quando confirmar a URL. -->
+## 🚀 Projetos em destaque
 
-### ☕ Java Backend
+### 👗 AKR Moda (Repo)
 
-Projetos de estudo em Java com foco em **orientação a objetos, CRUD, JDBC e PostgreSQL**. Tenho praticado consultas parametrizadas com `PreparedStatement`, tratamento de exceções e separação do acesso a dados em repositórios.
+PLM para gestão do ciclo de vida de produtos de moda, desenvolvido para a **AKR Brands**, empresa onde trabalho atualmente. A aplicação organiza coleções, peças, insumos e etapas de desenvolvimento, com acompanhamento do fluxo e dos indicadores.
 
-### 💰 Gestão de Contas
+A demonstração pública usa **dados inteiramente fictícios** e funciona sem conexão com APIs, autenticação, bancos de dados ou serviços da empresa.
 
-Aplicação de controle financeiro para registrar receitas e despesas, organizar lançamentos por categoria e visualizar indicadores. Desenvolvida com **React, JavaScript, Supabase e PostgreSQL**.
+**Tecnologias do projeto original:** React, TypeScript, Vite, Tailwind CSS, Java 21, Spring Boot, JPA, APIs REST e PostgreSQL.  
+[Ver protótipo demonstrativo](https://github.com/slunno/slunno/blob/main/prototypes/akr-moda/index.html) · [Instruções para executar e hospedar](https://github.com/slunno/slunno/blob/main/prototypes/README.md)
+
+### 💬 AKR Chat
+
+Protótipo de uma plataforma de comunicação para a **AKR Brands**, reunindo canais, conversas e colaboração em equipe. A demonstração é isolada, com perfis e mensagens fictícios, sem integração com banco de dados ou serviços corporativos.
+
+**Tecnologias do projeto original:** React, TypeScript, Express, Socket.IO, Prisma, PostgreSQL, Redis e Docker.  
+[Ver protótipo demonstrativo](https://github.com/slunno/slunno/blob/main/prototypes/akr-chat/index.html) · [Instruções para executar e hospedar](https://github.com/slunno/slunno/blob/main/prototypes/README.md)
 
 ### 🍕 Gama Pizzas
 
-Site responsivo para apresentar uma pizzaria e seu rodízio, com componentes em **React** e integração com **WhatsApp**.
+Site institucional responsivo para divulgar rodízios de pizza em eventos, sabores e galeria, com contato via WhatsApp.
 
-### 💳 Financial Couple
+**Tecnologias:** React, JavaScript, Vite, React Router, Framer Motion e Swiper.  
+[Visitar o site](https://gama-pizzas-three.vercel.app) · [Ver repositório](https://github.com/slunno/gama-pizzas)
 
-Aplicação de controle financeiro desenvolvida com **React, JavaScript, Supabase e PostgreSQL**, com foco em operações CRUD, organização de componentes e integração com o banco de dados.
+### 🖥️ NH Studio — meu portfólio de projetos
+
+Portfólio pessoal para apresentar projetos desenvolvidos, tecnologias e trajetória. Criado com **HTML, CSS e JavaScript**.
+
+[Visitar o portfólio](https://nathan-portfolio-umber.vercel.app)
 
 ## 🎯 Próximos passos
 
-- Construir APIs REST com Spring Boot e PostgreSQL.
-- Adicionar testes e documentar os projetos Java.
-- Empacotar aplicações com Docker e automatizar build e deploy.
-- Aplicar minha experiência em infraestrutura ao desenvolvimento e à operação de serviços.
+- Aprofundar **SQL**, modelagem de dados e consultas.
+- Estudar **AWS**, redes e fundamentos de cloud.
+- Evoluir em **arquitetura de software** e desenvolvimento de APIs.
+- Continuar praticando **front-end, experiência do usuário e desenvolvimento com IA**.
+- Aplicar esses conhecimentos em projetos completos, com qualidade, automação e boas práticas de entrega.
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/nathan-henrique-5b751321b/) · [GitHub](https://github.com/slunno)
+<!-- Instagram link pending: add the confirmed profile URL here. -->
+[LinkedIn](https://www.linkedin.com/in/nathan-henrique-5b751321b/)
 
-Aberto a oportunidades em **desenvolvimento back-end Java** e a projetos que conectem desenvolvimento, infraestrutura e DevOps.
+Aberto a oportunidades em **desenvolvimento back-end Java e front-end**, e a projetos que conectem **IA aplicada ao desenvolvimento, arquitetura de software, redes, infraestrutura, cloud e AWS/DevOps**.
